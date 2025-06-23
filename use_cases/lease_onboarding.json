@@ -1,0 +1,7 @@
+{
+    "prompts": [
+      "Does this page contain a lease start or end date? If yes, extract it.",
+      "Does this page include a visible signature field, signing box, or handwritten line?",
+      "Does this page list the tenant name or property address?"
+    ]
+  }
