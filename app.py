@@ -6,8 +6,8 @@ from email_utils import send_verification_email
 import json
 
 
-st.set_page_config(page_title="VisionFlow AI", layout="wide")
-st.title("📄 VisionFlow AI — Multi-Document Understanding")
+st.set_page_config(page_title="Document Ananyzer AI", layout="wide")
+st.title("📄 Document Ananyzer AI — Multi-Document Understanding")
 
 st.markdown("Upload multiple documents (e.g. lease + ID). VisionFlow will validate and cross-check.")
 
